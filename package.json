@@ -1,0 +1,21 @@
+{
+  "name": "expressfiles",
+  "version": "1.0.0",
+  "description": "This is my test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "and",
+    "express"
+  ],
+  "author": "Srikanth Pathlavath",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
